@@ -1,0 +1,1 @@
+678,102,100,30,violetred,MkSp1,Create Spotlight 1;/mkspot,int:1,float:250.0,float:50.0,float:65.0,str:dodgerblue;

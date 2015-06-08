@@ -1,0 +1,2 @@
+286,61,70,26,violetred,MkSp0,Create Spotlight 0: plum/size:65/50/50;/mkspot,int:0,float:50.0,float:50.0,float:65.0,str:plum;
+342,102,74,24,violetred,MkSp1,Create Spotlight 1: dodgerblue/size:65/250/50;/mkspot,int:1,float:250.0,float:50.0,float:65.0,str:dodgerblue;

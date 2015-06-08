@@ -1,0 +1,6 @@
+589,65,50,24,peacock,MkSp4,Create Spotlight 4: peacock/size:105/850/50;/mkspot,int:4,float:850.0,float:50.0,float:105.0,str:orange;
+496,124,49,24,magenta,MkSp3,Create Spotlight 3: pink/size:35/650/50;/mkspot,int:3,float:650.0,float:50.0,float:35.0,str:pink;
+394,102,47,22,seagreen,MkSp2,Create Spotlight 2: nicegreen/size:85/450/50;/mkspot,int:2,float:450.0,float:50.0,float:85.0,str:nicegreen;
+286,61,46,22,fig,MkSp0,Create Spotlight 0: plum/size:65/50/50;/mkspot,int:0,float:50.0,float:50.0,float:65.0,str:plum;
+363,64,48,24,dodgerblue,MkSp1,Create Spotlight 1: dodgerblue/size:65/250/50;/mkspot,int:1,float:250.0,float:50.0,float:65.0,str:dodgerblue;
+Make Spotlights
