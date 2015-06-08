@@ -10,6 +10,7 @@ class Win {
   float tladdpx;
 
   // CLASS VARIABLES //
+  float t, b;
   int numsecinwin;
   float secRemainderPx;
   float timelinepxadj;
@@ -35,6 +36,8 @@ class Win {
     for (int i=0; i<secmarklocs.length; i++) {
       secmarklocs[i] = (pxpersec*i)+tladdpx;
     }
+    t = y;
+    b = y+h;
   } //end constructor 1
 
   //  DRAW METHOD //

@@ -62,6 +62,7 @@ class Csr {
    // println(stavenum);
     //Calculate Time
     currtime = (durstave*stavenum) + map(x, stavebegin, stavebegin+stavew, 0.0, durstave);
+
     // println(currtime);
     /// Draw ///
     //Stroke

@@ -69,6 +69,9 @@ int brickct = 0;
 String[] psdescs = new String[13];
 String psdesctemp = "";
 
+/// Make Gesture ///
+MkGesture mkgest;
+
 
 
 void setup() {
@@ -128,6 +131,8 @@ void setup() {
 
   initscore(180.0, 5);
   csrs.play(0, 1, 1.0);
+mkgest = new MkGesture(5.0, 20.0);
+
 }
 
 void draw() {
@@ -195,6 +200,12 @@ void keyPressed() {
   bricks.keyprs();
   // if(key=='i') saveScore();
   //if(key=='j') loadScore("score1.txt");
+  if(key == 'p'){
+    mkgest.calc();
+    //println(mkgest.discreteEventsSt[2] + " : " + mkgest.discreteEventsEnd[2]);
+  }
+  if(key == 'r')     
+
 
   if (keyCode==BACKSPACE) {
     for (int i=0; i<bricks.cset.size (); i++) {

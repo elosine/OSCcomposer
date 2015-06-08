@@ -60,6 +60,7 @@ class Brick extends GuiElement {
   }
 
   void msclk() {
+   // println("c: " + c + "; " + m);
     if (msover) active = true;
     else {
       active = false;

@@ -1,4 +1,17 @@
 /*
+add continuous data to mkgesture
+//make a table of all curve info
+
+
+Normalize all curves
+  start time end time, total duration
+  event start - starttime = zeroed start
+  total dur/normalized start = normalized start
+  curves become a table of values per pixel
+  event starts and ends are discrete points
+    
+    
+
 Give Curves osc output
 Make a simple synthdef for demonstration
 find way to combine all into a single sequence
